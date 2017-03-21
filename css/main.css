@@ -1,0 +1,83 @@
+* {
+	
+	margin: 0;
+	outline: none; 
+	padding: 0;
+	background-color: #EEEEEE;
+	color: #5F545D;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	line-height: 1;
+	padding-top: 50px;
+}
+
+a {
+	text-decoration: none;
+}
+/*NAVIGATION*/
+
+
+nav {
+	
+	height: 50px;
+}
+
+
+
+.logo {
+	display: inline-block;
+	margin-left: 2%;
+}
+
+.sitenav {
+	 display: inline-block;
+	 float: right;
+	
+}
+
+.sitenav li {
+	display: inline-block;
+	margin-right: 60px;
+}
+
+.sitenav a:hover {
+	border-bottom: 3px solid #5F545D;
+}
+
+
+hr {
+	margin: 20px 10px;
+	
+}
+
+
+/*HEADER*/
+
+
+
+header {
+	text-align: center;
+	margin:55px;
+}
+
+h1 {
+	font-size: 25px;
+	
+}
+
+header h1 span {
+	color: #F692A3;
+}
+header p {
+	font-size: 18px;
+
+}
+
+.sunset img {
+    height: 290px;
+    width: 1227px;
+    margin-left: 9px;
+    border-radius: 5px;
+}
